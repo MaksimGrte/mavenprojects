@@ -1,0 +1,7 @@
+com\example\dao\ProductDAO.class
+com\example\model\Product.class
+com\example\servlet\AddProductServlet.class
+com\mycompany\mavenproject1\resources\JavaEE8Resource.class
+MyServlet\MyServlet.class
+com\example\servlet\EditProductServlet.class
+com\mycompany\mavenproject1\JAXRSConfiguration.class
